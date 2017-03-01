@@ -52,4 +52,4 @@ customDataSourceId = 'X9Lii0fjSIWAp75jdFN41w' #ключ api набора имп�
 obj = ga_custom_upload_file(accountId,webPropertyId,customDataSourceId,direct_adcost)
 
 
-# obj2 = ga_custom_upload(accountId, webPropertyId, customDataSourceId, obj$id)
+# obj2 = ga_custom_upload(accountId, webPropertyId, customDataSourceId, obj$id)x
